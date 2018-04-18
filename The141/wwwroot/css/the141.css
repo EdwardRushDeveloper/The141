@@ -1,0 +1,17 @@
+﻿.carousel-item {
+    height: 32rem;
+    background-color: #f0f0f0
+}
+
+.bg-light {
+    background-color: #feb236 !important
+}
+
+
+html, body {
+    background-color: #80ced6
+}
+
+.carousel-caption {
+    color: #3b3a30
+}
