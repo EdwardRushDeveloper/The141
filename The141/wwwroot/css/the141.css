@@ -15,3 +15,8 @@ html, body {
 .carousel-caption {
     color: #3b3a30
 }
+
+
+.carousel-indicators li {
+    background-color: #000000
+}
